@@ -1,39 +1,82 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: ActuaGaming
+title: ActuaGaming
+description: Aquí te informaremos sobre lo último del mundo de los videojuegos.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - gaming
+  - videojuegos
+  - noticias de videojuegos
+  - PlayStation
+  - Xbox
+  - Nintendo
+  - PC
+  - noticias de PC
+  - PS3
+  - noticias de PS3
+  - PS4
+  - noticias de PS4
+  - PS5
+  - noticias de PS5
+  - Xbox 360
+  - noticias de Xbox 360
+  - Xbox One
+  - noticias de Xbox One
+  - Xbox Series X
+  - noticias de Xbox Series X
+  - Fortnite
+  - PUBG
+  - Rockstar Games
+  - EA
+  - Ubisoft
+  - Facebook Gaming
+  - Twitch
+  - YouTube Gaming
+email: actuagamingla@gmx.com
+disqus_username: actuagamingla
 show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
+  - title: Análisis
+    url: https://actuagamingla.github.io/tags/#analisis
+  - title: eSports
+    url: https://actuagamingla.github.io/tags/#eSports
+  - title: Lanzamientos
+    url: https://actuagamingla.github.io/tags/#lanzamientos
+  - title: Noticias
+    url: https://actuagamingla.github.io/tags/#Noticias
+  - title: 3DS
+    url: https://actuagamingla.github.io/tags/#3DS
+  - title: Android / iOS
+    url: https://actuagamingla.github.io/tags/#móviles
+  - title: Nintendo Switch
+    url: https://actuagamingla.github.io/tags/#Nintendo%20Switch
+  - title: Otros
+    url: https://actuagamingla.github.io/tags/#otros
+  - title: PS4
+    url: https://actuagamingla.github.io/tags/#PS4
+  - title: PS5
+    url: https://actuagamingla.github.io/tags/#PS5
+  - title: Retro
+    url: https://actuagamingla.github.io/tags/#retro
+  - title: Xbox One
+    url: https://actuagamingla.github.io/tags/#Xbox%20One
+  - title: Xbox Series X
+    url: https://actuagamingla.github.io/tags/#Xbox%20Series%20X
   - title: Feed
     url: /feed.xml
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: actuagamingla
+facebook_username: ActuaGamingLA
+twitter_username: ActuaGamingLA
+instagram_username: actuagamingla
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
@@ -41,9 +84,9 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://actuagamingla.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "es"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 

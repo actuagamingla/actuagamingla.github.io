@@ -35,16 +35,6 @@ email: actuagamingla@gmx.com
 disqus_username: actuagamingla
 show_hero: true
 menu:
-  - title: Home
-    url: /
-  - title: Análisis
-    url: https://actuagamingla.github.io/tags/#analisis
-  - title: eSports
-    url: https://actuagamingla.github.io/tags/#eSports
-  - title: Lanzamientos
-    url: https://actuagamingla.github.io/tags/#lanzamientos
-  - title: Noticias
-    url: https://actuagamingla.github.io/tags/#Noticias
   - title: 3DS
     url: https://actuagamingla.github.io/tags/#3DS
   - title: Android / iOS

@@ -1,8 +1,8 @@
 translations:
   text:
-    new_post: "New Post"
-    see_also: "See also"
-    search: "Search"
+    new_post: "Nueva publicación"
+    see_also: "Recomendado"
+    search: "Buscar..."
     author: "Autor"
     share: "Compartir"
     comments: "Comentarios"
